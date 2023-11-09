@@ -1,7 +1,7 @@
 <!-- Title -->
-<h3 align="center">
-        <samp>&gt;_ Hey There!, I am
-                <b><a target="_blank" href="https://k-raihan.github.io/">Raihan Khan</a></b>
+<h3 align="center">&gt;_ Hey There!, I am
+        <samp>
+        <b><a target="_blank" href="https://raih9k.github.io/">Raihan Khan</a></b>
         </samp>
 </h3>
 
