@@ -1,5 +1,5 @@
 <!-- Title -->
-<h3 align="center">&gt;_ Hey There!, I am
+<h3 align="center">&gt;_ Hey There! Myself
         <samp>
         <b><a target="_blank" href="https://raih9k.github.io/">Raihan Khan</a></b>
         </samp>
