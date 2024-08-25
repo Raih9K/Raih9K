@@ -125,6 +125,6 @@
 </p>
 
 <div align="center" >
-<samp> &gt;_ Happy Coding :) </samp>
+<samp> &gt;_ Happy Testing :) </samp>
  <br>
 </div>
