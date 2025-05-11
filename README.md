@@ -1,22 +1,23 @@
 # Hey, I'm Raihan Khan <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-🚀 **Lead QA Engineer | Automation Specialist | Test Architect**  
+🚀 **Lead QA Engineer | Automation Specialist | Test Enthusiast**  
 🎯 Passionate about breaking things — so they can be rebuilt stronger!
 
 ---
 
 🔍 **About Me**  
-I'm Raihan Khan, currently leading the QA initiatives at [@Pippa Sync Technologies Inc.](https://github.com/chatwoot). With **X+ years** of hands-on experience in **Software Quality Assurance (SQA)**, I specialize in designing scalable automation frameworks, implementing robust testing strategies, and ensuring flawless product releases.
+I'm Raihan Khan, currently leading QA efforts at [@Pippa Sync Technologies Inc.](https://github.com/chatwoot).  
+With **2+ years** of hands-on experience in **Software Quality Assurance (SQA)**, I specialize in designing test automation frameworks, implementing smart testing strategies, and delivering smooth, bug-free releases.
 
 💻 **What I Do Best:**
 - ✅ Build **CI/CD integrated automation pipelines**
-- ✅ Architect **End-to-End (E2E) test suites** with Selenium, Cypress & Playwright
-- ✅ API Testing ninja with **Postman**, **RestAssured**, and **Swagger**
-- ✅ Mobile Testing with **Appium** and cross-platform tools
-- ✅ Performance testing using **JMeter** & **k6**
-- ✅ Bug hunter mindset with sharp eye on **UI/UX glitches & backend mismatches**
+- ✅ Design **End-to-End (E2E) test suites** using Selenium, Cypress & Playwright
+- ✅ API Testing expert with **Postman**, **RestAssured**, and **Swagger**
+- ✅ Mobile Testing using **Appium** for cross-platform apps
+- ✅ Performance testing with **JMeter** & **k6**
+- ✅ Sharp eye for **UI/UX glitches** and **backend mismatches**
 
-🔗 **Tools & Tech I Love:**
+🔧 **Tools & Tech I Love:**
 `Selenium` `Cypress` `Playwright` `Postman` `JMeter` `Docker` `Jenkins` `GitHub Actions` `MySQL` `MongoDB`
 
 ---
@@ -26,8 +27,15 @@ I'm Raihan Khan, currently leading the QA initiatives at [@Pippa Sync Technologi
 
 ---
 
-📫 **Let's Connect:**  
-Feel free to reach out for collaborations, SQA mentorship, or just to talk about how we can break stuff (and fix them cleaner)!  
+📫 **Connect With Me:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raih9k/)  
+✉️ **Email:** [isteyqq@gmail.com](mailto:isteyqq@gmail.com)  
+🌐 **Website:** [isteyaq.me](https://isteyaq.me)
+
+---
+
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raih9k) -->
+
 
 <!-- 
 <a href="https://github.com/Raih9K/Raih9K">
