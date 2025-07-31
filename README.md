@@ -6,7 +6,7 @@
 ---
 
 🔍 **About Me**  
-I'm Raihan Khan, currently leading QA efforts at [@Pippa Technologies Inc.](https://github.com/chatwoot).  
+I'm Raihan Khan, currently leading QA efforts at [@Pippa Technologies Inc.](https://github.com/raih9k).  
 With **2+ years** of hands-on experience in **Software Quality Assurance (SQA)**, I specialize in designing test automation frameworks, implementing smart testing strategies, and delivering smooth, bug-free releases.
 
 💻 **What I Do Best:**
