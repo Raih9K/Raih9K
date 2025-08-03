@@ -28,7 +28,6 @@ With **2+ years** of hands-on experience in **Software Quality Assurance (SQA)**
 ---
 
 📫 **Connect With Me:**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raih9k/)  
 ✉️ **Email:** [isteyqq@gmail.com](mailto:isteyqq@gmail.com)  
 🌐 **Website:** [isteyaq.me](https://isteyaq.me)
 
