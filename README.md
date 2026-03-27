@@ -8,7 +8,7 @@
 
 🔍 **About Me**  
 I'm Raihan Khan, currently Head of Monk at [@weMonks Inc.](https://github.com/raih9k).  
-With *32+ years** of hands-on experience in **Software Quality Assurance (SQA)**, I specialize in designing test automation frameworks, implementing smart testing strategies, and delivering smooth, bug-free releases.
+With *3+ years** of hands-on experience in **Software Quality Assurance (SQA)**, I specialize in designing test automation frameworks, implementing smart testing strategies, and delivering smooth, bug-free releases.
 
 💻 **What I Do Best:**
 - ✅ Build **CI/CD integrated automation pipelines**
