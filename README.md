@@ -1,7 +1,7 @@
 # Hey, I'm Raihan Khan <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
 🚀 **Salesforce Developer @ Micronetbd Inc. | Automation Architect | Vibe Coder ⚡**
-🎯 Building scalable solutions on Salesforce with high-speed AI-augmented development.
+🎯**Building scalable solutions on Salesforce with high-speed AI-augmented development. **
 
 ---
 
