@@ -28,6 +28,13 @@ With a background in **SQA (3+ years)**, I blend technical precision with the sp
 
 ---
 
+## 📊 My Vibe Stats
+<!-- START_SECTION:metrics -->
+![GitHub Metrics](https://metrics.lecoq.io/Raih9K?template=classic&repositories=3&repositories.pinned=3&config.timezone=Asia/Dhaka)
+<!-- END_SECTION:metrics -->
+
+---
+
 📫 **Connect With Me:**  
 ✉️ **Email:** [isteyqq@gmail.com](mailto:isteyqq@gmail.com)  
 🌐 **Website:** [isteyaq.me](https://isteyaq.me)
